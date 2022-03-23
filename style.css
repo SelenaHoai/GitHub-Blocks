@@ -1,0 +1,15 @@
+* {
+    background-color: thistle;
+    
+}
+
+.h1 {
+    color: darkslategrey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+
+.box1 {
+    background-color: lightskyblue;
+    
+}
